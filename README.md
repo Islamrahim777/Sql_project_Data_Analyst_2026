@@ -151,7 +151,7 @@ Power BI	2609
 
 
 Table of the demand for the top 5 skills in data analyst job postings
-![the demand for the top 5 skills](project_sql/assets/03_Top_10_Skills_Frequency.png
+![the demand for the top 5 skills](project_sql/assets/03_Top_10_Skills_Frequency.png)
 ### 4. Skills Based on Salary
 
 Exploring the average salaries associated with different skills revealed which skills are the highest paying.
